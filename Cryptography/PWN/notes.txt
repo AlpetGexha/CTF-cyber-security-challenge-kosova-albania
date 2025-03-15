@@ -1,0 +1,7 @@
+Hi Stewie,
+
+Please reset the Pretera-Wifi password and set a new one. Make sure the company name is included in the password and make sure you follow the password policies.
+
+- Include 1 uppercase character
+- Include 1 special character
+- Include at least 1 number
